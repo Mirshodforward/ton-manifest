@@ -1,0 +1,11 @@
+{
+  "name": "TON Wallet Bot",
+  "url": "https://mirshodforward.github.io/ton-manifest/",
+  "iconUrl": "https://mirshodforward.github.io/ton-manifest/icon.png",
+  "termsOfUseUrl": "https://t.me/yourchannel",
+  "privacyPolicyUrl": "https://t.me/yourchannel",
+  "manifestVersion": "1.0",
+  "network": "mainnet",
+  "address": "UQBsU4aZOASnH1pwkMAFDVHcVQs-34qlNu60ksEt3aDXJ8v-",
+  "endpoint": "https://toncenter.com/api/v2/jsonRPC"
+}
